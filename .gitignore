@@ -1,0 +1,17 @@
+# Keil 编译产物
+Project/Objects/
+Project/Listings/
+*.map
+*.axf
+*.hex
+*.bin
+*.crf
+*.o
+*.d
+*.lst
+
+# 打包文件
+*.zip
+
+# Keil 用户界面状态
+*.uvguix.*
